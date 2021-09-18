@@ -1,9 +1,7 @@
-%YAML 1.1
-
 # midget package manifest
 
 package: "SummerVacations" # package name
-version: 2.0f # version
+version: 1.0f # version
 
 full_name: "Summer Vacations" # full name
 
@@ -11,7 +9,7 @@ full_name: "Summer Vacations" # full name
 # leave empty if version does not exist
 # NOTE: works only with *.zip archives
 
-win_dl_link: "https://gamebanana.com/dl/582355" # windows download link, required
+win_dl_link: "https://gamebanana.com/dl/573171" # windows download link, required
 
 mac_dl_link: "" # mac download link
 
