@@ -1,7 +1,7 @@
 # midget package manifest
 
 package: "VSBB" # package name
-version: 1.0f # version
+version: 1.0 # version
 
 full_name: "FNF Big Brother mod" # full name
 
