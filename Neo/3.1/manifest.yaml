@@ -9,7 +9,7 @@ full_name: "Friday Night Funkin': Neo" # full name
 # leave empty if version does not exist
 # NOTE: works only with *.zip archives
 
-win_dl_link: "https://drive.google.com/u/0/uc?export=download&confirm=zWGx&id=11RoOSTEfwa5l2duYWVmT-co1hMcf_2_0" # windows download link, required
+win_dl_link: "https://gamebanana.com/dl/658789" # windows download link, required
 
 mac_dl_link: "" # mac download link
 
