@@ -1,0 +1,18 @@
+# midget package manifest
+
+package: "VSBigSis" # package name
+version: 2.0 # version
+
+full_name: "Big Sis Mod" # full name
+
+# direct download links
+# leave empty if version does not exist
+# NOTE: works only with *.zip archives
+
+win_dl_link: "https://gamebanana.com/dl/621602" # windows download link, required
+
+mac_dl_link: "" # mac download link
+
+linux_dl_link: "" # linux download link
+
+triggers: [] # displays trigger warnings, if empty than does not show anything
